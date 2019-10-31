@@ -35,7 +35,7 @@ for c in cnts:
 
 if screenCnt is None:
  detected = 0
- print "No contour detected"
+ print ("No contour detected")
 else:
  detected = 1
 
